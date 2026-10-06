@@ -87,4 +87,5 @@ relevant, e.g. no missingness plot if there are no nulls).
 
 ## Contributors
 1. Dhankecha Ashish
-2. Bhikadiya Meet
+2. Anadani Taksh
+3. Bhikadiya Meet
