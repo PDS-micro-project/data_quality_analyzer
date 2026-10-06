@@ -84,3 +84,6 @@ relevant, e.g. no missingness plot if there are no nulls).
   out of `output/` without the report, links break. Convert to a
   self-contained HTML report (inline base64 images) if this needs to be
   shipped as a single deliverable.
+
+## Contributors
+1. Dhankecha Ashish
